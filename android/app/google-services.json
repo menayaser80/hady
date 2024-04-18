@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748197694927",
+    "project_id": "lava-f82cb",
+    "storage_bucket": "lava-f82cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748197694927:android:0ee97d60cf8f025bd916ba",
+        "android_client_info": {
+          "package_name": "com.example.lava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Mf1dCkrqPBh4LQj0V05yPpz87WynyQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
